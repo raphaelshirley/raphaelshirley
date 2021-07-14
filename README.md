@@ -1,4 +1,10 @@
-### Hi there 👋
+### Raphael Shirley
+
+I am an astronomer at the University of Southampton. I work on various software packages in astronomy. You can see some more information about me on my personal website:
+
+www.raphaelshirley.co.uk
+
+The main things I am working on now are pipelines for joint processing of upcoming Vera C Rubin Observatory imaging and near infrared imaging from the VISTA telescope.
 
 <!--
 **raphaelshirley/raphaelshirley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

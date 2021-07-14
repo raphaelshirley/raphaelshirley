@@ -4,7 +4,7 @@ I am an astronomer at the University of Southampton. I work on various software 
 
 www.raphaelshirley.co.uk
 
-The main things I am working on now are pipelines for joint processing of upcoming Vera C Rubin Observatory imaging and near infrared imaging from the VISTA telescope.
+The main things I am working on now are pipelines for joint processing of upcoming [Vera C. Rubin Observatory](https://www.lsst.org/) imaging and near infrared imaging from the [VISTA telescope](https://www.eso.org/public/teles-instr/paranal-observatory/surveytelescopes/vista/).
 
 <!--
 **raphaelshirley/raphaelshirley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Raphael Shirley
 
-I am an astronomer at the Max Planck Institute of Extraterrestrial Physics in Munich, Germany. I work on various software packages in astronomy. You can see some more information about me on my personal website:
+I am an astronomer at the [Max Planck Institute for Extraterrestrial Physics](https://www.mpe.mpg.de/) in Munich, Germany. I work on various software packages in astronomy. You can see some more information about me on my personal website:
 
 www.raphaelshirley.co.uk
 

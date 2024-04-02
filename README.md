@@ -4,6 +4,6 @@ I am an astronomer at the [Max Planck Institute for Extraterrestrial Physics](ht
 
 www.raphaelshirley.co.uk
 
-The main things I am working on now are pipelines for joint processing of upcoming [Vera C. Rubin Observatory](https://www.lsst.org/). I am particularly interested in photometric redshift estimation using both template fitting and machine learning algorithms. I am also interested in imaging processing including near infrared imaging from the [VISTA telescope](https://www.eso.org/public/teles-instr/paranal-observatory/surveytelescopes/vista/) in addition to Rubin data.
+The main things I am working on now are pipelines for the [Vera C. Rubin Observatory](https://www.lsst.org/) which is currently under construciton in Chile. I am particularly interested in photometric redshift estimation using both template fitting and machine learning algorithms. I am also interested in imaging processing including near infrared imaging from the [VISTA telescope](https://www.eso.org/public/teles-instr/paranal-observatory/surveytelescopes/vista/) in addition to Rubin data.
 
 
